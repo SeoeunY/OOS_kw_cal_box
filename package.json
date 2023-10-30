@@ -1,0 +1,17 @@
+{
+  "name": "oos_kw_cal_box",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "bin": {
+    "oos_kw_cal_box": "./main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
